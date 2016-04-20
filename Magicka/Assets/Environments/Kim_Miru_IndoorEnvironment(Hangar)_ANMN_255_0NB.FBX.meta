@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 8b284e397266994459795660ca021598
+timeCreated: 1458361886
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Object006
+    100004: Object006_MeshPart0
+    100006: Object006_MeshPart1
+    100008: Object006_MeshPart2
+    100010: Object006_MeshPart3
+    100012: Object006_MeshPart4
+    100014: Object006_MeshPart5
+    100016: Object006_MeshPart6
+    100018: Object006_MeshPart7
+    100020: Object007
+    100022: Object007_MeshPart0
+    100024: Object007_MeshPart1
+    100026: Object007_MeshPart2
+    100028: Object007_MeshPart3
+    100030: Object007_MeshPart4
+    100032: Object007_MeshPart5
+    100034: Object007_MeshPart6
+    100036: Object007_MeshPart7
+    100038: Object007_MeshPart8
+    100040: Object007_MeshPart9
+    100042: Object008
+    100044: Object008_MeshPart0
+    100046: Object008_MeshPart1
+    100048: Object009
+    100050: Object009_MeshPart0
+    100052: Object009_MeshPart1
+    100054: Text001
+    400000: //RootNode
+    400002: Object006
+    400004: Object006_MeshPart0
+    400006: Object006_MeshPart1
+    400008: Object006_MeshPart2
+    400010: Object006_MeshPart3
+    400012: Object006_MeshPart4
+    400014: Object006_MeshPart5
+    400016: Object006_MeshPart6
+    400018: Object006_MeshPart7
+    400020: Object007
+    400022: Object007_MeshPart0
+    400024: Object007_MeshPart1
+    400026: Object007_MeshPart2
+    400028: Object007_MeshPart3
+    400030: Object007_MeshPart4
+    400032: Object007_MeshPart5
+    400034: Object007_MeshPart6
+    400036: Object007_MeshPart7
+    400038: Object007_MeshPart8
+    400040: Object007_MeshPart9
+    400042: Object008
+    400044: Object008_MeshPart0
+    400046: Object008_MeshPart1
+    400048: Object009
+    400050: Object009_MeshPart0
+    400052: Object009_MeshPart1
+    400054: Text001
+    2300000: Object006_MeshPart0
+    2300002: Object006_MeshPart1
+    2300004: Object006_MeshPart2
+    2300006: Object006_MeshPart3
+    2300008: Object006_MeshPart4
+    2300010: Object006_MeshPart5
+    2300012: Object006_MeshPart6
+    2300014: Object006_MeshPart7
+    2300016: Object007_MeshPart0
+    2300018: Object007_MeshPart1
+    2300020: Object007_MeshPart2
+    2300022: Object007_MeshPart3
+    2300024: Object007_MeshPart4
+    2300026: Object007_MeshPart5
+    2300028: Object007_MeshPart6
+    2300030: Object007_MeshPart7
+    2300032: Object007_MeshPart8
+    2300034: Object007_MeshPart9
+    2300036: Object008_MeshPart0
+    2300038: Object008_MeshPart1
+    2300040: Object009_MeshPart0
+    2300042: Object009_MeshPart1
+    3300000: Object006_MeshPart0
+    3300002: Object006_MeshPart1
+    3300004: Object006_MeshPart2
+    3300006: Object006_MeshPart3
+    3300008: Object006_MeshPart4
+    3300010: Object006_MeshPart5
+    3300012: Object006_MeshPart6
+    3300014: Object006_MeshPart7
+    3300016: Object007_MeshPart0
+    3300018: Object007_MeshPart1
+    3300020: Object007_MeshPart2
+    3300022: Object007_MeshPart3
+    3300024: Object007_MeshPart4
+    3300026: Object007_MeshPart5
+    3300028: Object007_MeshPart6
+    3300030: Object007_MeshPart7
+    3300032: Object007_MeshPart8
+    3300034: Object007_MeshPart9
+    3300036: Object008_MeshPart0
+    3300038: Object008_MeshPart1
+    3300040: Object009_MeshPart0
+    3300042: Object009_MeshPart1
+    4300000: Object006_MeshPart0
+    4300002: Object006_MeshPart1
+    4300004: Object006_MeshPart2
+    4300006: Object006_MeshPart3
+    4300008: Object006_MeshPart4
+    4300010: Object006_MeshPart5
+    4300012: Object006_MeshPart6
+    4300014: Object006_MeshPart7
+    4300016: Object007_MeshPart0
+    4300018: Object007_MeshPart1
+    4300020: Object007_MeshPart2
+    4300022: Object007_MeshPart3
+    4300024: Object007_MeshPart4
+    4300026: Object007_MeshPart5
+    4300028: Object007_MeshPart6
+    4300030: Object007_MeshPart7
+    4300032: Object007_MeshPart8
+    4300034: Object007_MeshPart9
+    4300036: Object008_MeshPart0
+    4300038: Object008_MeshPart1
+    4300040: Object009_MeshPart0
+    4300042: Object009_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

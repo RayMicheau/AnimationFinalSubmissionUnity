@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: da0c018a2a841af4284538a728c8001d
+timeCreated: 1460643580
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Male_Animation_rig_Kevin_06:arm_L_jnt
+    100002: Male_Animation_rig_Kevin_06:arm_R_jnt
+    100004: Male_Animation_rig_Kevin_06:axe_R_dynJoint
+    100006: Male_Animation_rig_Kevin_06:axe_R_jnt
+    100008: Male_Animation_rig_Kevin_06:ball_L_end
+    100010: Male_Animation_rig_Kevin_06:ball_L_jnt
+    100012: Male_Animation_rig_Kevin_06:ball_R_end
+    100014: Male_Animation_rig_Kevin_06:ball_R_jnt
+    100016: Male_Animation_rig_Kevin_06:DontTouch_rig_grp
+    100018: Male_Animation_rig_Kevin_06:DontTransform_grp
+    100020: Male_Animation_rig_Kevin_06:elbow_L_jnt
+    100022: Male_Animation_rig_Kevin_06:elbow_R_jnt
+    100024: Male_Animation_rig_Kevin_06:foot_L_jnt
+    100026: Male_Animation_rig_Kevin_06:foot_R_jnt
+    100028: Male_Animation_rig_Kevin_06:head_end
+    100030: Male_Animation_rig_Kevin_06:head_jnt
+    100032: Male_Animation_rig_Kevin_06:hip_jnt
+    100034: Male_Animation_rig_Kevin_06:index01_L_jnt
+    100036: Male_Animation_rig_Kevin_06:index01_R_jnt
+    100038: Male_Animation_rig_Kevin_06:index02_L_jnt
+    100040: Male_Animation_rig_Kevin_06:index02_R_jnt
+    100042: Male_Animation_rig_Kevin_06:index03_L_jnt
+    100044: Male_Animation_rig_Kevin_06:index03_R_jnt
+    100046: Male_Animation_rig_Kevin_06:index04_L_end
+    100048: Male_Animation_rig_Kevin_06:index04_R_end
+    100050: Male_Animation_rig_Kevin_06:joint_grp
+    100052: Male_Animation_rig_Kevin_06:knee_L_jnt
+    100054: Male_Animation_rig_Kevin_06:knee_R_jnt
+    100056: Male_Animation_rig_Kevin_06:middle01_L_jnt
+    100058: Male_Animation_rig_Kevin_06:middle01_R_jnt
+    100060: Male_Animation_rig_Kevin_06:middle02_L_jnt
+    100062: Male_Animation_rig_Kevin_06:middle02_R_jnt
+    100064: Male_Animation_rig_Kevin_06:middle03_L_jnt
+    100066: Male_Animation_rig_Kevin_06:middle03_R_jnt
+    100068: Male_Animation_rig_Kevin_06:middle04_L_end
+    100070: Male_Animation_rig_Kevin_06:middle04_R_end
+    100072: Male_Animation_rig_Kevin_06:neck_jnt
+    100074: Male_Animation_rig_Kevin_06:pinky01_L_jnt
+    100076: Male_Animation_rig_Kevin_06:pinky01_R_jnt
+    100078: Male_Animation_rig_Kevin_06:pinky02_L_jnt
+    100080: Male_Animation_rig_Kevin_06:pinky02_R_jnt
+    100082: Male_Animation_rig_Kevin_06:pinky03_L_jnt
+    100084: Male_Animation_rig_Kevin_06:pinky03_R_jnt
+    100086: Male_Animation_rig_Kevin_06:pinky04_L_end
+    100088: Male_Animation_rig_Kevin_06:pinky04_R_end
+    100090: Male_Animation_rig_Kevin_06:ring01_L_jnt
+    100092: Male_Animation_rig_Kevin_06:ring01_R_jnt
+    100094: Male_Animation_rig_Kevin_06:ring02_L_jnt
+    100096: Male_Animation_rig_Kevin_06:ring02_R_jnt
+    100098: Male_Animation_rig_Kevin_06:ring03_L_jnt
+    100100: Male_Animation_rig_Kevin_06:ring03_R_jnt
+    100102: Male_Animation_rig_Kevin_06:ring04_L_end
+    100104: Male_Animation_rig_Kevin_06:ring04_R_end
+    100106: Male_Animation_rig_Kevin_06:shield_end
+    100108: Male_Animation_rig_Kevin_06:shield_jnt
+    100110: Male_Animation_rig_Kevin_06:shoulder_L_jnt
+    100112: Male_Animation_rig_Kevin_06:shoulder_R_jnt
+    100114: Male_Animation_rig_Kevin_06:spine01_jnt
+    100116: Male_Animation_rig_Kevin_06:spine02_jnt
+    100118: Male_Animation_rig_Kevin_06:spine03_jnt
+    100120: Male_Animation_rig_Kevin_06:spine04_jnt
+    100122: Male_Animation_rig_Kevin_06:spine05_jnt
+    100124: Male_Animation_rig_Kevin_06:thigh_L_jnt
+    100126: Male_Animation_rig_Kevin_06:thigh_R_jnt
+    100128: Male_Animation_rig_Kevin_06:thumb01_L_jnt
+    100130: Male_Animation_rig_Kevin_06:thumb01_R_jnt
+    100132: Male_Animation_rig_Kevin_06:thumb02_L_jnt
+    100134: Male_Animation_rig_Kevin_06:thumb02_R_jnt
+    100136: Male_Animation_rig_Kevin_06:thumb03_L_jnt
+    100138: Male_Animation_rig_Kevin_06:thumb03_R_jnt
+    100140: Male_Animation_rig_Kevin_06:thumb04_L_end
+    100142: Male_Animation_rig_Kevin_06:thumb04_R_end
+    100144: Male_Animation_rig_Kevin_06:torso_jnt
+    100146: Male_Animation_rig_Kevin_06:wrist_L_jnt
+    100148: Male_Animation_rig_Kevin_06:wrist_R_jnt
+    100150: //RootNode
+    400000: Male_Animation_rig_Kevin_06:arm_L_jnt
+    400002: Male_Animation_rig_Kevin_06:arm_R_jnt
+    400004: Male_Animation_rig_Kevin_06:axe_R_dynJoint
+    400006: Male_Animation_rig_Kevin_06:axe_R_jnt
+    400008: Male_Animation_rig_Kevin_06:ball_L_end
+    400010: Male_Animation_rig_Kevin_06:ball_L_jnt
+    400012: Male_Animation_rig_Kevin_06:ball_R_end
+    400014: Male_Animation_rig_Kevin_06:ball_R_jnt
+    400016: Male_Animation_rig_Kevin_06:DontTouch_rig_grp
+    400018: Male_Animation_rig_Kevin_06:DontTransform_grp
+    400020: Male_Animation_rig_Kevin_06:elbow_L_jnt
+    400022: Male_Animation_rig_Kevin_06:elbow_R_jnt
+    400024: Male_Animation_rig_Kevin_06:foot_L_jnt
+    400026: Male_Animation_rig_Kevin_06:foot_R_jnt
+    400028: Male_Animation_rig_Kevin_06:head_end
+    400030: Male_Animation_rig_Kevin_06:head_jnt
+    400032: Male_Animation_rig_Kevin_06:hip_jnt
+    400034: Male_Animation_rig_Kevin_06:index01_L_jnt
+    400036: Male_Animation_rig_Kevin_06:index01_R_jnt
+    400038: Male_Animation_rig_Kevin_06:index02_L_jnt
+    400040: Male_Animation_rig_Kevin_06:index02_R_jnt
+    400042: Male_Animation_rig_Kevin_06:index03_L_jnt
+    400044: Male_Animation_rig_Kevin_06:index03_R_jnt
+    400046: Male_Animation_rig_Kevin_06:index04_L_end
+    400048: Male_Animation_rig_Kevin_06:index04_R_end
+    400050: Male_Animation_rig_Kevin_06:joint_grp
+    400052: Male_Animation_rig_Kevin_06:knee_L_jnt
+    400054: Male_Animation_rig_Kevin_06:knee_R_jnt
+    400056: Male_Animation_rig_Kevin_06:middle01_L_jnt
+    400058: Male_Animation_rig_Kevin_06:middle01_R_jnt
+    400060: Male_Animation_rig_Kevin_06:middle02_L_jnt
+    400062: Male_Animation_rig_Kevin_06:middle02_R_jnt
+    400064: Male_Animation_rig_Kevin_06:middle03_L_jnt
+    400066: Male_Animation_rig_Kevin_06:middle03_R_jnt
+    400068: Male_Animation_rig_Kevin_06:middle04_L_end
+    400070: Male_Animation_rig_Kevin_06:middle04_R_end
+    400072: Male_Animation_rig_Kevin_06:neck_jnt
+    400074: Male_Animation_rig_Kevin_06:pinky01_L_jnt
+    400076: Male_Animation_rig_Kevin_06:pinky01_R_jnt
+    400078: Male_Animation_rig_Kevin_06:pinky02_L_jnt
+    400080: Male_Animation_rig_Kevin_06:pinky02_R_jnt
+    400082: Male_Animation_rig_Kevin_06:pinky03_L_jnt
+    400084: Male_Animation_rig_Kevin_06:pinky03_R_jnt
+    400086: Male_Animation_rig_Kevin_06:pinky04_L_end
+    400088: Male_Animation_rig_Kevin_06:pinky04_R_end
+    400090: Male_Animation_rig_Kevin_06:ring01_L_jnt
+    400092: Male_Animation_rig_Kevin_06:ring01_R_jnt
+    400094: Male_Animation_rig_Kevin_06:ring02_L_jnt
+    400096: Male_Animation_rig_Kevin_06:ring02_R_jnt
+    400098: Male_Animation_rig_Kevin_06:ring03_L_jnt
+    400100: Male_Animation_rig_Kevin_06:ring03_R_jnt
+    400102: Male_Animation_rig_Kevin_06:ring04_L_end
+    400104: Male_Animation_rig_Kevin_06:ring04_R_end
+    400106: Male_Animation_rig_Kevin_06:shield_end
+    400108: Male_Animation_rig_Kevin_06:shield_jnt
+    400110: Male_Animation_rig_Kevin_06:shoulder_L_jnt
+    400112: Male_Animation_rig_Kevin_06:shoulder_R_jnt
+    400114: Male_Animation_rig_Kevin_06:spine01_jnt
+    400116: Male_Animation_rig_Kevin_06:spine02_jnt
+    400118: Male_Animation_rig_Kevin_06:spine03_jnt
+    400120: Male_Animation_rig_Kevin_06:spine04_jnt
+    400122: Male_Animation_rig_Kevin_06:spine05_jnt
+    400124: Male_Animation_rig_Kevin_06:thigh_L_jnt
+    400126: Male_Animation_rig_Kevin_06:thigh_R_jnt
+    400128: Male_Animation_rig_Kevin_06:thumb01_L_jnt
+    400130: Male_Animation_rig_Kevin_06:thumb01_R_jnt
+    400132: Male_Animation_rig_Kevin_06:thumb02_L_jnt
+    400134: Male_Animation_rig_Kevin_06:thumb02_R_jnt
+    400136: Male_Animation_rig_Kevin_06:thumb03_L_jnt
+    400138: Male_Animation_rig_Kevin_06:thumb03_R_jnt
+    400140: Male_Animation_rig_Kevin_06:thumb04_L_end
+    400142: Male_Animation_rig_Kevin_06:thumb04_R_end
+    400144: Male_Animation_rig_Kevin_06:torso_jnt
+    400146: Male_Animation_rig_Kevin_06:wrist_L_jnt
+    400148: Male_Animation_rig_Kevin_06:wrist_R_jnt
+    400150: //RootNode
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 12
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
